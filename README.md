@@ -7,7 +7,7 @@
 
 2. Set path ../Projects/TestSuite/test-suite to terminal <b>$cd ../Projects/TestSuite/test-suite to terminal</b>
 
-3. run npm install, whicj will install all the dependencies -> <b>$ npm install</b>
+3. run npm install, which will install all the dependencies -> <b>$ npm install</b>
 
 4. Start project by run command, that will start the service on port "loaclhost:3000"  -> <b>$nmp start</b>
 
