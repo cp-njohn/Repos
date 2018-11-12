@@ -1,5 +1,5 @@
 # Repos
-1. Download the Repo
+1. Download or checkout the Repo <b> https://github.com/cp-njohn/Repos.git</b>
 2. Set path ../Projects/TestSuite/test-suite to terminal
     <b>$cd ../Projects/TestSuite/test-suite to terminal</b>
 3. run npm install, whicj will install all the dependencies -> <b>$ npm install</b>
