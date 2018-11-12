@@ -1,4 +1,5 @@
 # Repos
+<h1><u> Steps to run the electron - react project on local machine</u></h1>
 1. Download or checkout the Repo <b> https://github.com/cp-njohn/Repos.git</b>
 2. Set path ../Projects/TestSuite/test-suite to terminal
     <b>$cd ../Projects/TestSuite/test-suite to terminal</b>
