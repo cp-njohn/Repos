@@ -13,7 +13,7 @@
 
 5. To start electron standalone app, run bwlow command from another terminal instance -> <b>$electron .</b>
     
-Note: To kill the service run on port 3000 run the command from terminal -> <b>$lsof -nti:3004 | xargs kill -9</b>
+Note: To kill the service run on port 3000 run the command from terminal -> <b>$lsof -nti:3000 | xargs kill -9</b>
 </pre>
 
 </body>
